@@ -6,7 +6,7 @@ export default function App() {
       <h1>Hello CodeSandbox</h1>
       <h2>Start editing to see some magic happen!</h2>
       <p> this is the best</p>
-      <p> 2222</p>
+      <p> 333</p>
     </div>
   );
 }
